@@ -1,6 +1,6 @@
 
-from calculate1 import *
-from help import help1
+from itog_project.calculate1 import *
+from itog_project.help import help1
 from my_ip import myip
 import pyfiglet
 
