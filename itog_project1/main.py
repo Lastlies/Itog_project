@@ -1,4 +1,4 @@
-
+# программа позволяет вывести ip адрес, имя хоста, и расчитать диапозон ip адресации по маске и адресу
 from itog_project1.calculate1 import *
 from itog_project1.help import help1
 from my_ip import myip
